@@ -67,3 +67,14 @@ SQL_Injection 1
 
 <img width="1891" height="836" alt="Image" src="https://github.com/user-attachments/assets/cecc89da-44f1-402f-b37b-3b1cb3c1ca22" />
 
+SQL_Injection 2
+
+<img width="1871" height="882" alt="Image" src="https://github.com/user-attachments/assets/344a6877-bf6f-4b7d-9a99-2d3832f3f1c4" />
+
+XSS_Testing 1
+
+<img width="1897" height="877" alt="Image" src="https://github.com/user-attachments/assets/d785384f-e9e4-4416-83fa-10faad4b7502" />
+
+XSS_Testing 2
+
+<img width="1602" height="936" alt="Image" src="https://github.com/user-attachments/assets/bb01d586-87b2-4462-b2d1-82ad7ba3105a" />
