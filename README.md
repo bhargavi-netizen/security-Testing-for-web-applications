@@ -12,4 +12,4 @@
 
 "MENTOR": NEELA SANTHOSH
 
-# To perform security testind for web applications to identify the vulnerablilities such as SQL Injection and Cross-site-spliting(XSS)
+# To perform security testing for web applications to identify the vulnerablilities such as SQL Injection and Cross-site-spliting(XSS)
