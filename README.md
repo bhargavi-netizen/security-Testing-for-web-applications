@@ -18,9 +18,12 @@ Web Application Security Testing
 
 
 DESCRIPTION:
-This project focuses on conduct basic security testing on a sample web application to identify commomn vulnerabilities such as SQL Injection and Cross-site-Scripting(XSS.)
+This project focuses on conduct basic security testing on a sample 
+web application to identify commomn vulnerabilities such as SQL Injection
+and Cross-site-Scripting(XSS.)
 
-The Testing was performed on an intentionally vulnerable demo web application for learning and ethical testing purpose.
+The Testing was performed on an intentionally vulnerable demo web application 
+for learning and ethical testing purpose.
 
 
 OBJECTIVE:
@@ -51,7 +54,8 @@ DELIVERABLES:
 - Security_Testing_Report.txt (Detailed security report)
 
 RESULTS:
-The application was found to be vulnerable to SQL Injection and XSS.Appropriate mitigation strategies have been documented in the security report.
+The application was found to be vulnerable to SQL Injection and XSS.
+Appropriate mitigation strategies have been documented in the security report.
 
 DISCLAIMER:
 This testing was conducted only for educational purpose on a legally permitted demo application.
